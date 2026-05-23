@@ -46,4 +46,4 @@ Practical implementation of modular frontend applications, utilizing advanced st
 ---
 
 ### 📬 Connect with me
-- [LinkedIn](TU_URL_DE_LINKEDIN_ACA)
+- [LinkedIn](www.linkedin.com/in/tomas-romero-baylac-020300182)
