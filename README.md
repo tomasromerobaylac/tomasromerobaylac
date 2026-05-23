@@ -8,7 +8,7 @@ I am a Software Engineering student focused on building clean, efficient, and sc
 - 🎓 Software Engineering Student.
 - ⚙️ Passionate about backend logic, concurrency, and how systems work at a low level.
 - 💻 Experienced in designing transactional backends and custom simulators.
-- 🎨 Capable of building dynamic and responsive user interfaces to deliver full-system products.
+- 🎨 Capable of building dynamic and responsive user interfaces using React.
 
 ---
 
