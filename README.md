@@ -25,21 +25,5 @@ I am a Software Engineering student focused on building clean, efficient, and sc
 
 ---
 
-### 📂 Featured Projects
-
-#### 🛠️ Process Scheduling Simulator (Java)
-A custom OS-level simulator developed to manage and visualize core operating system concepts, thread execution, and resource allocation.
-- **Key features:** Deep handling of concurrency, scheduling algorithms, and modular design.
-
-#### 📦 Garage & Transaction Management Backend (Python)
-A robust backend architecture designed to handle data storage, multi-user scheduling, and transactional state consistency.
-- **Key features:** REST API design, relational data management, and clean code separation.
-
-#### ⚛️ Dynamic Interface Components (React / JS)
-Practical implementation of modular frontend applications, utilizing advanced state hooks and state management to connect seamlessly with server APIs.
-- **Key features:** Interactive state control, component lifecycles, and clean user experience.
-
----
-
 ### 📬 Connect with me
 - [LinkedIn](www.linkedin.com/in/tomas-romero-baylac-020300182)
