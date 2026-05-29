@@ -1,4 +1,5 @@
 # Hi there, I'm Tomas! 👋
+<img width="1024" height="572" alt="imagen" src="https://github.com/user-attachments/assets/1739808e-13a8-48f5-bf7e-526bb8432372" />
 
 I am a Software Engineering student focused on building clean, efficient, and scalable applications. My main areas of interest are Backend Architecture and Systems Development, which I complement with modern Frontend tools to create complete software solutions.
 
